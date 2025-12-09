@@ -1,7 +1,7 @@
 # BLG-307 Yapay Zeka Sistemleri – 1. Proje Ödevi  
 ## Genetik Algoritma ile Sunucu Performans Optimizasyonu  
 **Öğrenci:** Rabia Çolak  
-**Numara:** 21xxxxxxx  
+**Numara:** 2212721008  
 **Senaryo:** 8 – Web Sunucusu Ayarları Optimizasyonu  
 
 ---
