@@ -92,4 +92,10 @@ Algoritma boyunca nesillere göre en iyi fitness değeri:
 ```text
 ├── README.md
 ├── blg307_genetik_optimizasyon.ipynb
-└── (Gerekirse ek script dosyaları)
+
+
+## Kullanılan Teknolojiler
+- Python
+- NumPy
+- Matplotlib
+
