@@ -46,11 +46,14 @@ Her birey: `[x₁, x₂]` şeklinde tutulmuştur.
 Popülasyon büyüklüğü: **30**
 
 ### ✔ Seçim Mekanizması  
-**Turnuva seçimi (k=3)** kullanılmıştır.
+**Roulette Wheel Selection** yöntemi kullanılmıştır.  
+Bu yöntemde bireylerin seçilme olasılığı fitness değerleri ile orantılıdır.
+
 
 ### ✔ Çaprazlama (Crossover)  
-**Uniform crossover** uygulanmıştır.  
-Her gen %50 olasılıkla ebeveynler arasında değiştirilmektedir.
+**Tek noktalı çaprazlama** yöntemi kullanılmıştır.  
+İlk gen bir ebeveynden, ikinci gen diğer ebeveynden alınmıştır.
+
 
 ### ✔ Mutasyon  
 - x₁ genine ±1 değişim  
