@@ -97,8 +97,22 @@ Algoritma boyunca nesillere göre en iyi fitness değeri:
 ├── blg307_genetik_optimizasyon.ipynb
 
 
-## Kullanılan Teknolojiler
-- Python
+## ⚙️ Kurulum ve Çalıştırma Yönergeleri
+
+Bu proje Python dili kullanılarak geliştirilmiştir ve
+Google Colab ortamında çalıştırılabilir.
+
+### 🔹 Gereksinimler
+- Python 3.x
 - NumPy
 - Matplotlib
+
+Gerekli kütüphaneler Colab ortamında varsayılan olarak yüklüdür.
+Yerel ortamda çalıştırmak isteyen kullanıcılar için
+aşağıdaki komut ile eksik kütüphaneler kurulabilir:
+
+```bash
+pip install numpy matplotlib
+
+
 
