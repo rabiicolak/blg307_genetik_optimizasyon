@@ -90,12 +90,6 @@ Algoritma boyunca nesillere göre en iyi fitness değeri:
 
 ---
 
-## 📁 Dosya Yapısı
-
-```text
-├── README.md
-├── blg307_genetik_optimizasyon.ipynb
-
 
 ## ⚙️ Kurulum ve Çalıştırma Yönergeleri
 
